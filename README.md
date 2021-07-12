@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amansingh843369
+- 👋 Hi, I’m @Amansingh
 - 👀 I’m interested in  Web development
 - 🌱 I’m currently learning  Django 
 - 💞️ I’m looking to collaborate on group
