@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amansingh
-- 👀 I’m interested in  Web development
+- 👀 I’m interested in  backend development
 - 🌱 I’m currently learning  Java and Selenium(Python).
 - 💞️ I’m looking to collaborate on group
 - 📫 How to reach me singhaman843369@gmail.com
