@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amansingh
-- 👀 I’m interested in  backend development
-- 🌱 I’m currently learning  Java and Selenium(Python).
+- 👀 I’m interested in Full Stack Web developer.
+- 🌱 I’m currently learning  JavaScript and JS frameworks(React.js,Vue.js).
 - 💞️ I’m looking to collaborate on group
 - 📫 How to reach me singhaman843369@gmail.com
 
