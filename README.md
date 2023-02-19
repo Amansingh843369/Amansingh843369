@@ -35,4 +35,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh843369&" alt="amansingh843369" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Aman singh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aman singh" /></a><a href="https://ko-fi.com/Aman Singh"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Aman Singh" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Aman singh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aman singh" /></a></p><br><br>
