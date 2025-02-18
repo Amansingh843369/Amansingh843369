@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh843369" alt="amansingh843369" /></a> </p>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **Java**
 
 - 🌱 I’m currently learning **software testing and python programming**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 🤝 I’m looking for help with **React js**
+- 🤝 I’m looking for help with **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amansingh843369](https://github.com/Amansingh843369)
 
