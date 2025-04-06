@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋  I'm Aman Singh</h1>
+ <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Aman Singh</h1>
 <h3 align="center">I am passionate about my work. I am currently focus on Java Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh843369&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh843369" /> </p>
