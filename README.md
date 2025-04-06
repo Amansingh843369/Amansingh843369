@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋  I'm Aman Singh</h1>
-<h3 align="center">I am passionate about my work. I am currently focus on Full stack developer</h3>
+<h3 align="center">I am passionate about my work. I am currently focus on Java Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh843369&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh843369" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **singhaman843369@gmail.com**
 
-- ⚡ Fun fact **I am happy all the time I always believe in my hardwork**
+- ⚡ Fun fact **I am always eager to learn something new **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
