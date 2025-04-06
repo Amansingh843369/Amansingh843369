@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋  I'm Aman Singh</h1>
+ <h1 align="center">Hi 👋  I'm Aman Singh</h1>
 <h3 align="center">I am passionate about my work. I am currently focus on Java Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh843369&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh843369" /> </p>
@@ -27,7 +27,7 @@
 
 <h3 align="left">My Stats :</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh843369&" alt="amansingh843369" /></p>
- <hr>
+ 
  ![Aman Singh stats](https://github-readme-stats.vercel.app/api?username=amansingh843369&show_icons=true&theme=merko)
  
 <h3 align="left">Support me:</h3>
