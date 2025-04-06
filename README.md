@@ -5,43 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh843369" alt="amansingh843369" /></a> </p>
 
-- 🔭 I’m currently working on **Java**
+-🔭 Current Focus: Java Development
 
-- 🌱 I’m currently learning **software testing and python programming**
+-🌱 Learning: Software Testing & Python Programming
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+-👯 Collaborating: Seeking opportunities for Frontend Project Collaboration
 
-- 🤝 I’m looking for help with **Java**
+-🤝 Seeking Help: Java Development Assistance
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amansingh843369](https://github.com/Amansingh843369)
+-👨‍💻 My Projects: Explore my work on GitHub [https://github.com/Amansingh843369](https://github.com/Amansingh843369)
 
-- 💬 Ask me about **Frontend languages**
+-💬 Ask Me About: Frontend Development (HTML, CSS, JavaScript, **React.Js**, **Java** etc.)
 
-- 📫 How to reach me **singhaman843369@gmail.com**
+-📫 Contact: singhaman843369@gmail.com
 
-- ⚡ Fun fact **I am always eager to learn something new **
-
-
-🔭 Current Focus: Java Development
-
-🌱 Learning: Software Testing & Python Programming
-
-👯 Collaborating: Seeking opportunities for Frontend Project Collaboration
-
-🤝 Seeking Help: Java Development Assistance
-
-👨‍💻 My Projects: Explore my work on GitHub here
-
-💬 Ask Me About: Frontend Development (HTML, CSS, JavaScript, React, etc.)
-
-📫 Contact: singhaman843369@gmail.com
-
-⚡ Fun Fact: Always eager to learn and explore new technologies!
-
-
-
-
-
+-⚡ Fun Fact: Always eager to learn and explore new technologies!
 <p align="left">
 </p>
 
