@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh843369" alt="amansingh843369" /></a> </p>
 
--🔭 Current Focus: Java Development
+- 🔭 Current Focus: Java Development
 
--🌱 Learning: Software Testing & Python Programming
+- 🌱 Learning: Software Testing & Python Programming
 
--👯 Collaborating: Seeking opportunities for Frontend Project Collaboration
+- 👯 Collaborating: Seeking opportunities for Frontend Project Collaboration
 
--🤝 Seeking Help: Java Development Assistance
+- 🤝 Seeking Help: Java Development Assistance
 
--👨‍💻 My Projects: Explore my work on GitHub [https://github.com/Amansingh843369](https://github.com/Amansingh843369)
+- 👨‍💻 My Projects: Explore my work on GitHub [https://github.com/Amansingh843369](https://github.com/Amansingh843369)
 
--💬 Ask Me About: Frontend Development (HTML, CSS, JavaScript, **React.Js**, **Java** etc.)
+- 💬 Ask Me About: Frontend Development (HTML, CSS, JavaScript, **React.Js**, **Java** etc.)
 
--📫 Contact: singhaman843369@gmail.com
+- 📫 Contact: singhaman843369@gmail.com
 
--⚡ Fun Fact: Always eager to learn and explore new technologies!
+- ⚡ Fun Fact: Always eager to learn and explore new technologies!
 <p align="left">
 </p>
 
