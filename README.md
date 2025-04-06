@@ -24,12 +24,8 @@
 
 <p align="left">
 </p>
-
-
-
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amansingh843369&show_icons=true&locale=en&layout=compact" alt="amansingh843369" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amansingh843369&show_icons=true&locale=en" alt="amansingh843369" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh843369&" alt="amansingh843369" /></p>
 
