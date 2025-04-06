@@ -22,6 +22,26 @@
 - ⚡ Fun fact **I am always eager to learn something new **
 
 
+🔭 Current Focus: Java Development
+
+🌱 Learning: Software Testing & Python Programming
+
+👯 Collaborating: Seeking opportunities for Frontend Project Collaboration
+
+🤝 Seeking Help: Java Development Assistance
+
+👨‍💻 My Projects: Explore my work on GitHub here
+
+💬 Ask Me About: Frontend Development (HTML, CSS, JavaScript, React, etc.)
+
+📫 Contact: singhaman843369@gmail.com
+
+⚡ Fun Fact: Always eager to learn and explore new technologies!
+
+
+
+
+
 <p align="left">
 </p>
 
