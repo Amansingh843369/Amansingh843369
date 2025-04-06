@@ -27,7 +27,8 @@
 
 <h3 align="left">My Stats :</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh843369&" alt="amansingh843369" /></p>
- 
+ <hr>
  ![Aman Singh stats](https://github-readme-stats.vercel.app/api?username=amansingh843369&show_icons=true&theme=merko)
+ 
 <h3 align="left">Support me:</h3>
 <p><a href="https://www.buymeacoffee.com/Aman singh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aman singh" /></a></p><br><br>
