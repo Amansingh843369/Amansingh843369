@@ -5,9 +5,10 @@
 ---
 
 <!-- Typing SVG -->
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&width=500&lines=Frontend+Developer;Backend+Developer;Java+Full+Stack+Developer;Learning+Python+%26+Tkinter;Always+Eager+to+Explore+New+Tech" alt="Typing SVG" />
-</p>
+</div>
+
 
 ---
 
