@@ -56,9 +56,8 @@
 
 ## 🚀 Featured Projects  
 
-🔹 [**Project 1 – Title**](#) – Short description about the project  
-🔹 [**Project 2 – Title**](#) – Short description about the project  
-🔹 [**Project 3 – Title**](#) – Short description about the project  
+🔹 [**MausamMate Web App **](#) – MausamMate is a real-time weather and environmental monitoring platform that provides accurate forecasts, water level data, and geolocation-based insights, powered by AI and modern web technologies  
+ 
 
 👉 More on my [GitHub Profile](https://github.com/Amansingh843369)  
 
@@ -67,8 +66,8 @@
 ## 📫 Connect With Me  
 
 - 📧 Email: **singhaman843369@gmail.com**  
-- 💼 LinkedIn: *(Add your LinkedIn link here)*  
-- 🌐 Portfolio: *(Add your portfolio site if you have one)*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/aman-singh-b82754221**  
+  
 
 <p align="left">
 <a href="https://github.com/Amansingh843369" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
