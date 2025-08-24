@@ -1,64 +1,79 @@
-# 👋 Hi, I'm Aman Singh  
-
-💻 **Passionate Java Full Stack Developer** | 🌱 Always Learning & Exploring | 🚀 Open to Collaborations  
-
----
-
-## 🔭 Current Focus  
-- Java Full Stack Development  
-- Building Scalable & Clean Web Applications  
-
-## 🌱 Learning  
-- Software Testing  
-- Python Programming  
-
-## 👯 Open to Collaborations  
-- Frontend Projects (React.js, JavaScript, HTML, CSS)  
-
-## 🤝 Seeking Help  
-- Java Development Guidance & Best Practices  
+<!-- Typing Intro -->
+<h1 align="center">Hi 👋, I'm Aman Singh</h1>
+<h3 align="center">💻 Java Full Stack Developer | 🌱 Lifelong Learner | 🚀 Open for Collaboration</h3>
 
 ---
 
-## 👨‍💻 My Projects  
-Explore all my work on **[GitHub](https://github.com/Amansingh843369)**  
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&width=500&lines=Java+Full+Stack+Developer;Frontend+Enthusiast;Learning+Python+%26+Testing;Always+Eager+to+Explore+New+Tech" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💬 Ask Me About  
-- Frontend Development (HTML, CSS, JavaScript, React.js)  
-- Java Programming & Full Stack Development  
+## 👨‍💻 About Me  
 
-📫 **Contact Me**: [singhaman843369@gmail.com](mailto:singhaman843369@gmail.com)  
-
----
-
-## ⚡ Fun Fact  
-🌟 I’m always eager to learn and explore new technologies!  
-
----
-
-## 📊 GitHub Stats  
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amansingh843369&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amansingh843369&layout=compact&theme=radical)  
+🔹 Passionate **Java Full Stack Developer** focused on building scalable, maintainable applications  
+🔹 Currently learning **Software Testing** & **Python Programming**  
+🔹 Open to **collaborations in Frontend projects** (React.js, JavaScript, HTML, CSS)  
+🔹 Always excited to explore new technologies & best practices  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases & Tools**  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-## ❤️ Support Me  
+## 📊 GitHub Stats  
 
-If you like my work, consider ⭐ my repos!  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amansingh843369&show_icons=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amansingh843369&theme=tokyonight&hide_border=true" alt="Aman's Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amansingh843369&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+🔹 [**Project 1 – Title**](#) – Short description about the project  
+🔹 [**Project 2 – Title**](#) – Short description about the project  
+🔹 [**Project 3 – Title**](#) – Short description about the project  
+
+👉 More on my [GitHub Profile](https://github.com/Amansingh843369)  
+
+---
+
+## 📫 Connect With Me  
+
+- 📧 Email: **singhaman843369@gmail.com**  
+- 💼 LinkedIn: *(Add your LinkedIn link here)*  
+- 🌐 Portfolio: *(Add your portfolio site if you have one)*  
+
+<p align="left">
+<a href="https://github.com/Amansingh843369" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:singhaman843369@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+🌟 *When I’m not coding, I’m learning something new — because growth never stops!* 🚀  
