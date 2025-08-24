@@ -1,32 +1,64 @@
- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Aman Singh</h1>
-<h3 align="center">I am passionate about my work. I am currently focus on Java Full Stack Developer</h3>
+# 👋 Hi, I'm Aman Singh  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh843369&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh843369" /> </p>
+💻 **Passionate Java Full Stack Developer** | 🌱 Always Learning & Exploring | 🚀 Open to Collaborations  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh843369" alt="amansingh843369" /></a> </p>
+---
 
-- 🔭 Current Focus: Java Development
+## 🔭 Current Focus  
+- Java Full Stack Development  
+- Building Scalable & Clean Web Applications  
 
-- 🌱 Learning: Software Testing & Python Programming
+## 🌱 Learning  
+- Software Testing  
+- Python Programming  
 
-- 👯 Collaborating: Seeking opportunities for Frontend Project Collaboration
+## 👯 Open to Collaborations  
+- Frontend Projects (React.js, JavaScript, HTML, CSS)  
 
-- 🤝 Seeking Help: Java Development Assistance
+## 🤝 Seeking Help  
+- Java Development Guidance & Best Practices  
 
-- 👨‍💻 My Projects: Explore my work on GitHub [https://github.com/Amansingh843369](https://github.com/Amansingh843369)
+---
 
-- 💬 Ask Me About: Frontend Development (HTML, CSS, JavaScript, **React.Js**, **Java** etc.)
+## 👨‍💻 My Projects  
+Explore all my work on **[GitHub](https://github.com/Amansingh843369)**  
 
-- 📫 Contact: singhaman843369@gmail.com
+---
 
-- ⚡ Fun Fact: Always eager to learn and explore new technologies!
-<p align="left">
-</p>
+## 💬 Ask Me About  
+- Frontend Development (HTML, CSS, JavaScript, React.js)  
+- Java Programming & Full Stack Development  
 
-<h3 align="left">My Stats :</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh843369&" alt="amansingh843369" /></p>
- 
- ![Aman Singh stats](https://github-readme-stats.vercel.app/api?username=amansingh843369&show_icons=true&theme=merko)
- 
-<h3 align="left">Support me:</h3>
-<p><a href="https://www.buymeacoffee.com/Aman singh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aman singh" /></a></p><br><br>
+📫 **Contact Me**: [singhaman843369@gmail.com](mailto:singhaman843369@gmail.com)  
+
+---
+
+## ⚡ Fun Fact  
+🌟 I’m always eager to learn and explore new technologies!  
+
+---
+
+## 📊 GitHub Stats  
+
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amansingh843369&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amansingh843369&layout=compact&theme=radical)  
+
+---
+
+## 🛠️ Tech Stack  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## ❤️ Support Me  
+
+If you like my work, consider ⭐ my repos!  
