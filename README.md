@@ -15,10 +15,11 @@
 
 ## 👨‍💻 About Me  
 
-🔹 Passionate **Java Full Stack Developer** focused on building scalable, maintainable applications  
-🔹 Currently learning **Software Testing** & **Python Programming**  
-🔹 Open to **collaborations in Frontend projects** (React.js, JavaScript, HTML, CSS)  
-🔹 Always excited to explore new technologies & best practices  
+🔹 Passionate **Full Stack Developer** focused on building scalable, maintainable applications  
+🔹 Currently learning **React.js** & **Node.js**  
+🔹 Open to **collaborations in Frontend projects** (React.js, JavaScript(ES6), HTML5, CSS3, BootStrap 5.3)  
+🔹 Always excited to explore new technologies & best practices 
+
 
 ---
 
@@ -65,7 +66,7 @@
 
 ## 🚀 Featured Projects  
 
-🔹 [**MausamMate Web App **](#) – MausamMate is a real-time weather and environmental monitoring platform that provides accurate forecasts, water level data, and geolocation-based insights, powered by AI and modern web technologies  
+🔹 [**MausamMate Web App **](#) – MausamMate is a real-time weather and environmental monitoring platform that provides accurate forecasts, water level data, and geolocation-based insights, powered by AI and modern web technologies.  
  
 
 👉 More on my [GitHub Profile](https://github.com/Amansingh843369)  
@@ -75,7 +76,7 @@
 ## 📫 Connect With Me  
 
 - 📧 Email: **singhaman843369@gmail.com**  
-- 💼 LinkedIn: *https://www.linkedin.com/in/aman-singh-b82754221**  
+- 💼 LinkedIn: *https://www.linkedin.com/in/aman-singh-b82754221* 
   
 
 <p align="left">
