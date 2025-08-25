@@ -1,6 +1,6 @@
 <!-- Typing Intro -->
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">💻 Full Stack Developer | 🌱 Lifelong Learner | 🚀 Open for Collaboratio</h3>
+<h3 align="center">💻 Full Stack Developer | 🌱 Lifelong Learner | 🚀 Open for Collaboration</h3>
 
 ---
 
