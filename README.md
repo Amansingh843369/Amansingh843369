@@ -41,7 +41,7 @@ const developer = {
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
 <tr>
